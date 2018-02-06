@@ -40,7 +40,7 @@ namespace FitnessFrog
                         }
                         else if (minutes < 60)
                         {
-                            Console.WriteLine("Dang, yo crazy man");
+                            Console.WriteLine("Wow, you're like so fit");
                         }
                         else
                         {
